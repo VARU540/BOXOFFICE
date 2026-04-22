@@ -6,7 +6,7 @@ This project focuses on analyzing box office data to extract meaningful insights
 ---
 
 ## 🚀 Features
-- 📊 Data cleaning and preprocessing  
+- 📊 Data cleaning and preprocessing 
 - 📈 Exploratory Data Analysis (EDA)  
 - 🎥 Movie revenue and performance insights  
 - 🏆 Top-performing movies analysis  
