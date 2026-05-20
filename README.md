@@ -1,4 +1,4 @@
-# 🎬 BOX OFFICE ANALYSIS
+# 🎬 BOX OFFICE ANALYSIS 
   
 ## 📌 Project Overview 
 This project focuses on analyzing box office data to extract meaningful insights about movie performance, revenue trends, and audience preferences. The goal is to use data analytics techniques to understand patterns in the film industry.
